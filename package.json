@@ -54,7 +54,7 @@
     "react-redux": "^5.0.6",
     "react-router-dom": "^4.2.2",
     "react-router-redux": "^4.0.8",
-    "reactstrap": "next",
+    "reactstrap": "5.0.0",
     "redux": "^3.7.2",
     "snoowrap": "^1.20.0",
     "webpack-cli": "^3.3.9"
