@@ -57,7 +57,7 @@
     "reactstrap": "next",
     "redux": "^3.7.2",
     "snoowrap": "^1.20.0",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^4.0.0"
   },
   "devDependencies": {
     "animate-sass": "^0.8.2",
